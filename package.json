@@ -1,0 +1,24 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "Understanding how nodejs and npm works from a developper's perspective",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plpepin/Simple_app_from_scratch.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "NPM",
+    "Github"
+  ],
+  "author": "Pierre-Luc Pepin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plpepin/Simple_app_from_scratch/issues"
+  },
+  "homepage": "https://github.com/plpepin/Simple_app_from_scratch#readme"
+}
